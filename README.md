@@ -20,12 +20,6 @@ All of us is curious about the salary rate in different countries. By taking sur
 
 ## File Description <a name="files"></a>
 
-**exploratory_analysis.ipynb**: Notebook containing the data analysis. </br>
-**data/2017/survey_results_public.csv**: Stackoverflow's 2017 Annual Developer Survey data. </br>
-**data/2018/survey_results_public.csv**: Stackoverflow's 2018 Annual Developer Survey data. </br>
-
-## Results <a name="results"></a>
-The main findings of the code can be found at the post available [here](https://medium.com/@ericvenarusso2/what-are-the-most-common-programming-languages-used-in-brazil-8d630b76df2f)
-
-## Licensing, Authors, Acknowledgements<a name="licensing"></a>
-Must give credit to Stackoverflow for the data. You can find the Licensing for the data and other descriptive information at the Stackoverflow link available [here](https://insights.stackoverflow.com/survey).
+**Write a Data Science Blog Post.ipynb**: Jupyter Notebook with the data analysis. </br>
+**developer_survey_2020/survey_results_public.csv**: Stackoverflow's 2020 Annual Developer Survey Data. </br>
+**developer_survey_2020/survey_results_schema.csv**: Stackoverflow's 2020 Annual Developer Survey Questions. </br>
