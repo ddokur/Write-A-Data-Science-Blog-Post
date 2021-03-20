@@ -21,5 +21,6 @@ All of us is curious about the salary rate in different countries. By taking sur
 ## File Description <a name="files"></a>
 
 **Write a Data Science Blog Post.ipynb**: Jupyter Notebook with the data analysis. </br>
+**developer_survey_2020.zip**: Contains survey_results_public.csv and survey_results_schema.csv files </br>
 **developer_survey_2020/survey_results_public.csv**: Stackoverflow's 2020 Annual Developer Survey Data. </br>
 **developer_survey_2020/survey_results_schema.csv**: Stackoverflow's 2020 Annual Developer Survey Questions. </br>
