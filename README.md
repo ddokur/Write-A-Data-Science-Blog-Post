@@ -1,35 +1,22 @@
-# Write a Data Science blog post
-Udacity Data Scientist Nanodegree Project.
+# Write a Data Science Blog Post
+Part of Udacity Data Scientist Nanodegree Project.
 
-### Table of Contents
-
-1. [Installation](#installation)
-2. [Project Motivation](#motivation)
-3. [File Description](#files)
-4. [Results](#results)
-5. [Licensing, Authors, and Acknowledgements](#licensing)
 
 ## Installation <a name="installation"></a>
 
-This code runs with Python version 3.* and requires some libraries, to install theses libraries you will need to execute: </br>
-` pip install -r requirements.txt `
+This code runs with Python version 3.* and requires some libraries that are presented in first import part.
 
-You will need to download Stackoverflow’s 2017 and 2018 Annual Developer Survey and put in specific folders. You can find the data to download [here](https://insights.stackoverflow.com/survey). </br>
+Stackoverflow’s 2020 Annual Developer Survey is used and presented.
 
-To move the downloaded files to the specific folder, you can execute. </br>
-
-1. Stackoverflow’s 2017 data </br>
-` mv survey_results_public.csv Write-a-Data-Science-Blog-Post/data/2017/survey_results_public.csv `</br>
-
-2. Stackoverflow’s 2018 data </br>
-` mv survey_results_public.csv Write-a-Data-Science-Blog-Post/data/2018/survey_results_public.csv `</br>
 
 ## Project Motivation <a name="motivation"></a>
 
-This is an Udacity Nanodegree project.I was interested in using Stackoverflow Developer Survey Data to better understand:</br>
-1. What are the most used programming languages in Brazil? </br>
-2. What are the most wanted programming languages in Brazil? </br>
-3. How does programming languages used at work relates with programming languages people want to learn? </br>
+All of us is curious about the salary rate in different countries. By taking survey results of Stack Overflow performed in 2020 , I want to elaborate this issue. With this motivation, I am asking these questions: 
+Which countries are more promosing in terms of salary?
+2. Is the relationship between salary and satisfaction really linear? And how does it change according to region?
+3. Do we need more degree to earn more money? 
+4. Does a woman have same or similar opportunity in different countries?
+5. Which countries are more promosing to earn more money based on our experience?
 
 ## File Description <a name="files"></a>
 
