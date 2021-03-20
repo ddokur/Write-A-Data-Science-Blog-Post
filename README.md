@@ -24,3 +24,7 @@ All of us is curious about the salary rate in different countries. By taking sur
 **developer_survey_2020.zip**: Contains survey_results_public.csv and survey_results_schema.csv files </br>
 **developer_survey_2020/survey_results_public.csv**: Stackoverflow's 2020 Annual Developer Survey Data. </br>
 **developer_survey_2020/survey_results_schema.csv**: Stackoverflow's 2020 Annual Developer Survey Questions. </br>
+
+## Results <a name="results"></a>
+Main resuts and findings is presented at my post available 
+The main findings of the code can be found at the post available [here](https://deryadokur.medium.com/write-a-data-science-blog-243537eebcd3).
