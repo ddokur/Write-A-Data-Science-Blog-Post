@@ -11,12 +11,12 @@ Stackoverflow’s 2020 Annual Developer Survey is used and presented.
 
 ## Project Motivation <a name="motivation"></a>
 
-All of us is curious about the salary rate in different countries. By taking survey results of Stack Overflow performed in 2020 , I want to elaborate this issue. With this motivation, I am asking these questions: 
-Which countries are more promosing in terms of salary?
-2. Is the relationship between salary and satisfaction really linear? And how does it change according to region?
-3. Do we need more degree to earn more money? 
-4. Does a woman have same or similar opportunity in different countries?
-5. Which countries are more promosing to earn more money based on our experience?
+All of us is curious about the salary rate in different countries. By taking survey results of Stack Overflow performed in 2020 , I want to elaborate this issue. With this motivation, I am asking these questions: </br>
+1. Which countries are more promosing in terms of salary?</br>
+2. Is the relationship between salary and satisfaction really linear? And how does it change according to region?</br>
+3. Do we need more degree to earn more money? </br>
+4. Does a woman have same or similar opportunity in different countries?</br>
+5. Which countries are more promosing to earn more money based on our experience?</br>
 
 ## File Description <a name="files"></a>
 
